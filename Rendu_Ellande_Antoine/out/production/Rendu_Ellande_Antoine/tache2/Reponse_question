@@ -1,0 +1,31 @@
+!!! AVANT DE CORRIGER !!!!
+--> Les deux fichiers "Exo2a.java" et "Exo2b.java" on été remplacés par le fichier de test "Main.java"
+
+
+
+Exercice 1:
+
+    Question 3:
+    L'anotation "Override" sert à redéfinir une fonction existante d'une autre classe.
+
+    Oui, on doit l'utiliser dans notre cas afin de pouvoir, avec la méthode existante "toString()", retourner les valeurs  au format demandé (Orange Floride 0.7).
+
+
+    Question 4:
+    La différence entre un tableau et une ArrayList est qu'un tableau est défini avec une taille à la base qui ne pourra changer
+    dans le temps alors qu'une ArrayList a une tailler dynamique qui peut changer dans le temps.
+
+Exercice 2:
+
+    Question 2:
+    Le code correspond  à nos attentes car l'index de l'object "c" est --> -1 dû au fait que cet objet n'a pas été ajouté dans la liste
+    Pour que l'objet est un index qui suive les précédents, il faut alors l'ajouter dans la liste
+
+
+Exercice 3:
+
+    Question 3:
+
+    Il va falloir créer une classe "Fruit" dont les classes "Banana" et "Orange" vont en héritées afin de pouvoir utiliser puis modifier la fonctionnalité
+    d'ajouts au panier de la classse "Basket" afin de pouvoir ajouter n'importe quel fruit dans le panier.
+    Aussi, il faudra faire attention à ne pas pouvoir modifier la "value" dans la classe Banana.

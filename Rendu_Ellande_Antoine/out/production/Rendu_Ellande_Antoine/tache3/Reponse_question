@@ -1,0 +1,26 @@
+!!! Avant de corriger (Exercice 3)!!!
+--> Par manque de temps dans la réalisation de ce exercice pour notre groupe, nous avons mis toutes les fonctionnalités demandés
+dans la classe "EuropeanNumberPlate" et nous avons conscience qu'il aurait été préférable de les mettre dans les autres classes
+et de réaliser un héritage afin de pouvoir les utilisées proprement.
+
+Exercice 1:
+
+    Question 2:
+    Surchager une méthode veut dire la définir avec le même nom plusieurs fois mais avec, à chaque fois, des arguments différents
+
+    Question 5:
+    Déclarer statiquement serait une bonne idée car dans notre classe "StartWithFilter" nous n'utilisons qu'une fonctionnalité et si à chaque utilisation, il
+    faut recréer une instance, cela posera problème en termes de performances --> Notre choix est donc le static
+
+Exercice 3
+
+    Question 1:
+    Il y aurait théoriquement : 26 x 26 x 10 x 10 x 10 x 26 x 26 = 456 976 000 voitures possible avec une plaque européene.
+
+    Question 3 :
+    On peut créer une méthode qui va venir vérifier si la plaque est au format ancien.
+    On créer ensuite une méthode appelant le check de l'ancien et nouveau format, si c'est un des deux format, alors la plaque est
+    ajouté à une liste de parc.
+
+    Question 6:
+    La méthode dois être mise dans la classe EuropeanNumberPlate.

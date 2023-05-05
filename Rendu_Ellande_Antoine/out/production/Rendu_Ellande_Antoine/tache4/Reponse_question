@@ -1,0 +1,24 @@
+DevOps:
+Désolé monsieur, nous n'avons plus grand souvenir des commandes à faire sous Docker.
+Cependant nous reverons les procédures que nous avons vu en classe sur Docker.
+
+Question 1:
+Pour nous, le Cloud représente les différents outils utilisés pour travailler et utiliser des serveurs distant au
+lieu de serveurs locaux.
+
+Des plateformes telles que AWS ou encore Azure fournissent des ressources et outils aux utilisateurs pour pouvoir gérer leur ressources
+à distance.
+
+Question 2:
+Les avantages du cloud sont la sécurité, la fiabilité ainsi que la simplicité d'accès aux divers outils pour les utilisateurs.
+
+Question 3:
+Le NAT c'est ce qui permet de fournir à des machines ayant des adresses IP privées des adresses IP publiques pour aller sur Internet
+
+Question 4:
+Il y a:
+le NAT statique  --> Ce NAT ne peut fournir qu'à une adresse privée une adresse publique
+le NAT dynamique --> Ce NAT permet de fournir à un réseau d'adresse privée une adresse publique
+
+Question 5:
+Il y a le service S3 d'Amazon AWS, cela permet aux clients qui l'utilise de pouvoir stocker de manière sécurisé leurs données.
